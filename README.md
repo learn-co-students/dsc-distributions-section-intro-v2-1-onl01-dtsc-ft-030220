@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 09 and why they'll be important to you as a data scientist.
+This lesson summarizes the topics we'll be covering in section 18 and why they'll be important to you as a data scientist.
 
 ## Objectives
 You will be able to:
@@ -19,6 +19,7 @@ We're then going to dig a little deeper into the Normal/Gaussian distribution an
 
 We'll then introduce the use cases for z-tables and p-values for describing statistical significance, and we'll finish off the section by looking at the "one-sample z test" - the most basic type of hypothesis test.
 
+We finish up the distributions section by introducing the Exponential distribution. In some ways it can be thought of as the inverse of a Poisson distribution, allowing us to answer questions about the amount of time it might take before a given event occurs.
 
 ## Summary
 
