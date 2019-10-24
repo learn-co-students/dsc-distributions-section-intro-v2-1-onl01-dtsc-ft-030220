@@ -1,5 +1,5 @@
 
-# Introduction - Distributions
+# Statistical Distributions - Introduction
 
 ## Introduction
 In this section, you'll learn about different probability distributions!
