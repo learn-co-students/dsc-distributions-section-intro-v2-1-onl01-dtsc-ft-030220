@@ -4,12 +4,6 @@
 ## Introduction
 In this section, you'll learn about different probability distributions!
 
-
-## Objectives
-You will be able to:
-* Understand and explain what is covered in this section
-* Understand and explain why the section will help you to become a data scientist
-
 ## It's all Stats!
 
 You've already seen the value of descriptive statistics when doing exploratory data analysis. In this section, we're going to dive deeper into a range of statistical concepts. We're going to start by looking at discrete and continuous distributions and how you can use stem and leaf plots for visualizing distributions.
