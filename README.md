@@ -10,9 +10,9 @@ You've already seen the value of descriptive statistics when doing exploratory d
 
 We're then going to look at a range of techniques for representing distributions - the Probability Mass Function, the Cumulative Distribution Function, and the Probability Density Function.
 
-We're then going to dig a little deeper into the Normal/Gaussian distribution and the Standard Normal Distribution, and we'll introduce the use cases for z-tables and p-values for describing statistical significance. We'll finish off the section by looking at the "one-sample z test" - the most basic type of hypothesis test.
+We're then going to dig a little deeper into the Normal/Gaussian distribution and the Standard Normal Distribution, and we'll introduce the use cases for z-tables and p-values for describing statistical significance. We'll discuss the "one-sample z test", the most basic type of hypothesis test, before introducing the concepts of skewness and kurtosis that can be used to quantify how "un-normal" a given distribution is.
 
-In the Appendix to this Module, you can learn more about the ideas of skewness and kurtosis that can be used to quantify how "un-normal" a given distribution is. We'll also introduce some additional distribution functions, like the uniform, Poisson, and exponential distributions. 
+In the Appendix to this Module, we'll introduce some additional distribution functions, like the uniform, Poisson, and exponential distributions, and use them to solve practical problems. 
 
 ## Summary
 
